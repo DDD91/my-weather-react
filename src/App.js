@@ -10,7 +10,7 @@ export default function App() {
       This project was coded by Devanie Dawson and is {" "} 
     <a 
     href= "https://github.com/DDD91/my-weather-react" 
-    target="_blank"
+    target="_blank" rel="noreferrer"
      >
       open-sourced on Github
     </a>
