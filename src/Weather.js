@@ -51,10 +51,8 @@ if (weatherData.ready) {
                 alt={weatherData.description}
                 className="float-left"
                 />
-                <div className="float-left">
                 <span className="temperature">{Math.round(weatherData.temperature)}</span>
                 <span className="unit">°C</span>
-                </div>
              </div>
          </div>
                 <div className="col-6">
