@@ -1,0 +1,17 @@
+.WeatherForecast {
+    text-align: center;
+}
+
+.WeatherForecast-day {
+    color: black;
+}
+
+.WeatherForecast-temperature-max {
+    color: black;
+}
+
+.WeatherForecast-temperature-min {
+    color: black;
+    opacity: 0.6;
+    margin-left: 5px;
+}
