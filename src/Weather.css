@@ -5,13 +5,16 @@ font-family: arial, sans-serif;
 padding: 16px;
 border-radius: 4px;
 color: rgb(135, 135, 135);
+background: linear-gradient(109.6deg, rgb(17, 151, 147) 11.2%, rgb(154, 214, 212) 55.4%, rgb(255, 233, 171) 100.2%);
 }
 
 .Weather h1 {
     font-size: 24px;
-    font-weight: 100;
+    font-weight: 200;
     line-height: 28px;
     margin: 20px 0 0 0;
+    color: black;
+    font-family: 'Playfair Display', serif;
 }
 
 .Weather ul {
@@ -24,6 +27,7 @@ font-size: 16px;
 font-weight: 100;
 line-height: 19px;
 list-style: none;
+color:rgb(33, 33, 33);
 }
 
 .Weather canvas {
@@ -37,7 +41,7 @@ list-style: none;
 .Weather .temperature {
     font-weight: bold;
     color: rgb(33, 33, 33);
-    font-size: 64px;
+    font-size: 55px;
     line-height: 64px;
     font-weight: 400;
 }
@@ -51,4 +55,5 @@ list-style: none;
     line-height: 1;
     top: -34px;
 }
+
 
